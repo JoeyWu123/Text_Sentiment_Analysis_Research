@@ -1,0 +1,4 @@
+To run the code of this research, firstly install MongoDB. Then create a database named "Twitter_Sentiment140", and create a collection called "Sentiment140" (all case sensitive), and import Sentiment140.json under /data. 
+Then, create a database name "IMDb" and a collection called "movie_reviews" under "IMDb" database, import movie_reviews.json under /data.
+Install Jupyter Notebook, and open main.ipynb. "main.ipynb" will import text_processor.py. Other python scrips just contain helper functions for preparation work, and aren't imported in "main.ipynb"
+All research record is in Result Record.docx
